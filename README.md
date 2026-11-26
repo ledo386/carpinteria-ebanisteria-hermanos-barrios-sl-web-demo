@@ -10,7 +10,7 @@ Conectar el repositorio, rama main, preset None, comando de compilación vacío,
 - css/styles.css: diseño, responsive, accesibilidad.
 - js/main.js: menú, galería, configurador y formulario local.
 - assets/favicon.svg y assets/wood.svg: identidad conceptual y respaldo gráfico.
-- robots.txt: bloqueo preventivo de rastreadores; meta noindex en HTML.
+- robots.txt y _headers: bloqueo preventivo de rastreadores, noindex y cabeceras de seguridad para Cloudflare. Meta noindex y CSP también en HTML.
 
 ## Contenido y fuentes
 - https://www.einforma.com/informacion-empresa/carpinteria-ebanisteria-hermanos-barrios — constitución de la sociedad en 2006, objeto social.
@@ -18,7 +18,16 @@ Conectar el repositorio, rama main, preset None, comando de compilación vacío,
 - https://firmania.es/fuenlabrada-madrid/carpinter%C3%ADa-ebanister%C3%ADa-hermanos-barrios-sl-1803841 — contacto y horario publicado.
 - https://fuenlabradavirtual.com/hogar/tienda-de-armarios/carpinteria-ebanisteria-hermanos-barrios-s-l-1985/ — categoría comercial.
 - https://www.axesor.es/Informes-Empresas/296787/EBANISTERIA_BARRIOS_E_HIJOS_SL.html — antecedente societario de 1991, coincidencia de teléfono; no demuestra continuidad.
-- Fotografías ilustrativas servidas por images.unsplash.com, de referencia, no atribuidas al negocio. Revisar licencias, autoría, disponibilidad y sustituir por material autorizado antes de publicar oficialmente.
+- Fotografías ilustrativas de Unsplash, no atribuidas al negocio. Se han visualizado los ocho originales a través de sus enlaces de descarga; la carga desde el sitio publicado debe comprobarse. Se usan enlaces externos con respaldo gráfico local. Autores y páginas de referencia:
+  - Clay Banks: https://unsplash.com/photos/tN1oFRA5saY
+  - Lisa Anna: https://unsplash.com/photos/6Y3avYzs6os
+  - Aleksandra Dementeva: https://unsplash.com/photos/qWi5wl1Ncrk
+  - Craft Kitties: https://unsplash.com/photos/GfYA6q5ESLI
+  - McFollis: https://unsplash.com/photos/oKm0abwopb0
+  - Rumman Amin: https://unsplash.com/photos/3fFBoEHee28
+  - Tim JT: https://unsplash.com/photos/AKqGrt7Q1DU
+  - Will Suddreth: https://unsplash.com/photos/o54RjF-C7xo
+  Revisar condiciones de uso, optimizar y alojar fotografías localmente o sustituir por imágenes reales autorizadas antes de la publicación oficial.
 
 ## Privacidad
 Formulario sin action ni nombres de campos transmisibles, deshabilitado hasta cargar JS, sin almacenamiento, sin analítica, sin petición de red al enviar; usar datos ficticios. Recursos gráficos externos pueden recibir datos técnicos de conexión; no hay mapas incrustados. Enlaces de teléfono y mapa son acciones explícitas.
